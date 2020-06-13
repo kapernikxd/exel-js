@@ -30,9 +30,11 @@ npm install webpack-dev-server --save-dev
 
 
 npm install --save @babel/polyfill
-
+npm i normalize.css
 
 npm i eslint eslint-loader babel-eslint -D
 
 
 npm install -D eslint-config-google
+
+npm install -D @babel/plugin-proposal-class-properties
